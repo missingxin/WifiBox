@@ -1,0 +1,29 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/jo/.platformio/penv/bin:/Users/jo/.platformio/penv:/Users/jo/Downloads/google-cloud-sdk/bin:/anaconda3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Applications/Wireshark.app/Contents/MacOS",
+    "PLATFORMIO_CALLER": "vscode"
+  },
+  "files.associations": {
+    "mqttclient.h": "c",
+    "mqttpacket.h": "c",
+    "espconn.h": "c",
+    "stacktrace.h": "c",
+    "string.h": "c",
+    "freertos.h": "c",
+    "queue.h": "c",
+    "task.h": "c",
+    "gpio.h": "c",
+    "i2c_master.h": "c",
+    "esp_common.h": "c",
+    "pin_mux_register.h": "c",
+    "i2c.h": "c",
+    "esp8266.h": "c",
+    "esp_system.h": "c",
+    "mw_24c02.h": "c",
+    "type_traits": "c",
+    "portmacro.h": "c",
+    "tasks.h": "c",
+    "uart.h": "c",
+    "24c02.h": "c"
+  }
+}
