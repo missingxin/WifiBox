@@ -24,6 +24,7 @@
     "portmacro.h": "c",
     "tasks.h": "c",
     "uart.h": "c",
-    "24c02.h": "c"
+    "24c02.h": "c",
+    "defaultsettings.h": "c"
   }
 }

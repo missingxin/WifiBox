@@ -1,8 +1,9 @@
 #include "tasks.h"
 #include "../lib/MQTTClient/include/MQTTClient.h"
+#include "defaultSettings.h"
 
 #define MQTT_SERVER_PORT 1883
-#define MQTT_SERVER_URL "your.broker"
+#define MQTT_SERVER_URL DEFAULT_MQTT_BROKER_URL
 
 void messageArrived(MessageData* data){
 int i =0;
